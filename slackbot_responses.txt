@@ -1,0 +1,3 @@
+When someone says -> Slackbot responds
+
+don't deploy master -> :scream:
