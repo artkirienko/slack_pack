@@ -1,1 +1,7 @@
 There is no problem in computer science which cannot be solved by one more level of monkey patching
+
+«It doesn’t matter how beautiful your theory is, it doesn’t matter how smart you are. If it doesn’t agree with experiment, it’s wrong.
+—Richard Feynman»
+
+«Good code is the code I wrote. Bad code is a code you wrote.
+—Socrates»
